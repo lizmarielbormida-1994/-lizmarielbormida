@@ -1,4 +1,4 @@
-# -lizmarielbormida-1994
+# -lizmarielbormida
 My Portfolio, About Me
 
 ## Hi there 👋
